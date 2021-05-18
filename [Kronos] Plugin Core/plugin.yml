@@ -1,0 +1,10 @@
+name: KronosCore
+version: 1.0.0
+main: fr.maxlego08.core.Kronos
+author: Maxlego08
+commands:
+  spawners:
+  koth:
+  totem:
+  airdrop:
+  stotem:
